@@ -7,6 +7,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dockerizar un proyecto Django](https://dev.to/adgaray/dockerizar-un-proyecto-django-2np3)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
