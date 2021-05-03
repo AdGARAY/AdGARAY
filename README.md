@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on php
+- 🌱 I’m currently learning python and go
+- 💬 Ask me about git, php, python
+- 📫 How to reach me: ...
+
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 **AdGARAY/AdGARAY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
