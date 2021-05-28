@@ -7,6 +7,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Lo básico en GraphQL](https://dev.to/adgaray/lo-basico-en-graphql-4i2b)
 - [Dockerizar un proyecto Django](https://dev.to/adgaray/dockerizar-un-proyecto-django-2np3)
 <!-- BLOG-POST-LIST:END -->
 
