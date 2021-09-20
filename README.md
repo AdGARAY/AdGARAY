@@ -3,8 +3,10 @@
 - 🔭 I’m currently working on php
 - 🌱 I’m currently learning python and go
 - 💬 Ask me about git, php, python
-- 📫 How to reach me: ...
-
+- 📫 How to reach me:
+  - Twitter: [@agarayfe](https://twitter.com/agarayfe)
+  - LinkedIn: [Adrian Garay](https://www.linkedin.com/in/adgaray/)
+  
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Lo básico en GraphQL](https://dev.to/adgaray/lo-basico-en-graphql-4i2b)
