@@ -9,6 +9,8 @@
   
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CQRS with Symfony Messenger](https://dev.to/adgaray/cqrs-with-symfony-messenger-2h3g)
+- [CQRS con Symfony Messenger &lpar;Español&rpar;](https://dev.to/adgaray/cqrs-con-symfony-messenger-espanol-1mep)
 - [Lo básico en GraphQL](https://dev.to/adgaray/lo-basico-en-graphql-4i2b)
 - [Dockerizar un proyecto Django](https://dev.to/adgaray/dockerizar-un-proyecto-django-2np3)
 <!-- BLOG-POST-LIST:END -->
